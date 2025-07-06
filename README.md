@@ -14,3 +14,4 @@
 - ピン接続はソース参照
 - FETからリレーを駆動している
 
+![20250706_194011470](https://github.com/user-attachments/assets/7c2873bc-763f-4087-9cae-09bd0b71296c)
